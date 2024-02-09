@@ -20,3 +20,14 @@ First start by downloading VEXcode [here](https://link.vex.com/vexcode-v5blocks-
 Once it's open it should look this
 ![App Screenshot](screenshots/startup.png)
 
+## How to use the app
+### Slots
+At the top you can select the slot on the brain that your program will be saved to 
+Note: When uploading code it will overwrite any other programs stored in that slot. There is a maximum of 8 programs that can be stored on the brain
+![App Screenshot](screenshots/slots.png)
+
+### Project Name
+To the right of the slots button you can click the project name (appears as VEXcode Project) to rename it before uploading to the brain
+![App Screenshot](screenshots/savename.png)
+
+
