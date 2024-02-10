@@ -3,7 +3,7 @@
 This guide provides an introduction to the basics of VEXcode Blocks. If you prefer video tutorials, you can also check out our [video guide](https://github.com/9204A-B/intro-block?tab=readme-ov-file#video-guide).
 
 ## Getting Started
-Start by downloading VEXcode from [here](https://link.vex.com/vexcode-v5blocks-windows), or you can use VEXcode online [here](https://codev5.vex.com/).
+Start by downloading VEXcode from here: [Windows](https://link.vex.com/vexcode-v5blocks-windows) or [Mac](https://link.vex.com/vexcode-v5blocks-mac), or you can use VEXcode online [here](https://codev5.vex.com/).
 <details>
 <summary>How to Set up VEXcode</summary>
   <br>
