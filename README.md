@@ -31,7 +31,7 @@ Note: When uploading code it will overwrite any other programs stored in that sl
 ![App Screenshot](screenshots/slots.png)
 
 ### Project Name
-To the right of the slots button you can click the project name (appears as VEXcode Project) to rename it before uploading to the brain
+To the right of the slots button you can click the project name (appears as VEXcode Project) to rename it before uploading to the brain  
 ![App Screenshot](screenshots/savename.png)
 
 ### Initalizing Devices
@@ -39,8 +39,8 @@ In order to get started you need to add the devices first, otherwise the blocks 
 First select the 2nd option below the run and download options
 ![App Screenshot](screenshots/addDevice.png)  
 In this example I will configure a simple drivetrain.  
-![App Screenshot](screenshots/Devicelist.png)  
-First I'll select a drivetrain object not a motor.
+![App Screenshot](screenshots/Devicelist.png)   
+First I'll select a drivetrain object not a motor.  
 ![App Screenshot](screenshots/motorConfig.png)  
 Pretty simple just select what ports the motors are connected to.  
 ![App Screenshot](screenshots/sensor.png)  
