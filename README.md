@@ -60,9 +60,9 @@ The toggle button example allows the motor to spin until you press the button ag
 There are two ways to run your program once it's uploaded to the brain.
 
 **From the Controller**  
-![Controller Screenshot](screenshots/controllerHome.png)  
+<img src="screenshots/controllerHome.png" width="243"><img>  
 Navigate using the arrow keys, select programs, navigate to the selected slot.  
-![Controller Screenshot](screenshots/controllerProgram.png)  
+<img src="screenshots/controllerProgram.png" width="243"><img>   
 Just hit run.  
 
 **From the Brain**  
