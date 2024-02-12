@@ -60,12 +60,16 @@ The toggle button example allows the motor to spin until you press the button ag
 There are two ways to run your program once it's uploaded to the brain.
 
 **From the Controller**  
-![Controller Screenshot](screenshots/controllerscreenshot.png)  
-Navigate using the arrow keys, select programs, navigate to the selected slot, and hit run.
+![Controller Screenshot](screenshots/controllerHome.png)  
+Navigate using the arrow keys, select programs, navigate to the selected slot.  
+![Controller Screenshot](screenshots/controllerProgram.png)  
+Just hit run.  
 
 **From the Brain**  
-![Brain Screenshot](screenshots/brain.png)  
-Click on the program at the bottom or select the programs folder to see everything.
+![Brain Screenshot](screenshots/home.png)  
+Click on the program at the bottom or select the programs folder to see everything.  
+![Brain Screenshot](screenshots/program.png)  
+Just hit run.   
 
 ## Summary
 This guide serves as a good starting place for those unfamiliar with VEXcode or text coding.  
